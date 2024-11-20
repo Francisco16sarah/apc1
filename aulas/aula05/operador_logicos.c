@@ -33,6 +33,8 @@ int main(){
   p = 0;
   printf("NAO %i = %i\n", p, !p);
   printf("NAO %i = %i\n", q, !q);
+
+  
   
 
    return 0;
